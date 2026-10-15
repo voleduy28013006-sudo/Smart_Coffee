@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Chi nhánh trong chuỗi cửa hàng. */
 public class Branch {

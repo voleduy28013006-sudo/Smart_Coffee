@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Mức đường / đá của cà phê truyền thống. */
 public enum SugarIceLevel {

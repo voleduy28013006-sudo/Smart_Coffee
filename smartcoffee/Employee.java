@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Nhân viên thuộc một chi nhánh. */
 public class Employee {

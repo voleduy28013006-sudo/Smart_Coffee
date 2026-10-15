@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Cà phê pha máy: có thể thêm shot Espresso (cộng phí/shot). */
 public class EspressoDrink extends Product implements Customizable {

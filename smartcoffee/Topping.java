@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Tùy chọn thêm (topping / shot) kèm giá. EXTRA_SHOT dành cho EspressoDrink. */
 public enum Topping {

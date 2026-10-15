@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 import java.time.LocalDate;             /** lấy ngày hiện tại */
 

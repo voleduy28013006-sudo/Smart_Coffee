@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** khách hàng của chuỗi cửa hàng. */
 public abstract class Customer {

@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Cà phê truyền thống: chọn mức đường/đá, giá cố định. */
 public class TraditionalCoffee extends Product {

@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 import java.util.ArrayList;
 import java.util.Collections;

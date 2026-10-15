@@ -1,4 +1,4 @@
-package smartcoffee;
+package smartcoffee.smartcoffee;
 
 /** Giao diện cho sản phẩm có hạn sử dụng / cần kiểm tra độ tươi. */
 public interface Perishable {
